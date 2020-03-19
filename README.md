@@ -1,5 +1,9 @@
 # Impact-of-COVID-19
 
+## Derive interesting data insights on covid-19 and visualize the outbreak of coronavirus compared to SARS
+
+Note: All the data, codes and data sources have been provided for reproducing or to add updates. 
+
 ![Impact](https://github.com/SanthiyaDaniel/Impact-of-COVID-19/blob/master/Outputs/Screenshot%20(329).png)
 
 ![Spread](https://github.com/SanthiyaDaniel/Impact-of-COVID-19/blob/master/Outputs/Screenshot%20(359).png)
